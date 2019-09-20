@@ -1,1 +1,4 @@
-QlikView extensie voor het toevoegen van een interactieve kaart aan een dashboard. De extensie maakt gebruik van D3.js versie 3. 
+QlikView extension for adding a simple map to a QlikView dashboard using D3.js.
+
+The example QlikView worksheet contains some fictional sample data.
+
